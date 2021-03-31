@@ -22,17 +22,17 @@
     "url": "https://docerita.com",
     "icon": "https://favicons.githubusercontent.com/docerita.com",
     "slug": "docerita",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 1037,
-    "timeWeek": 1042,
-    "timeMonth": 833,
-    "timeYear": 789,
+    "time": 788,
+    "timeDay": 888,
+    "timeWeek": 1004,
+    "timeMonth": 830,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   }
 ]
