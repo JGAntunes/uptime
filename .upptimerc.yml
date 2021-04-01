@@ -8,6 +8,10 @@ sites:
     url: https://jgantunes.com
   - name: Docerita
     url: https://docerita.com
+  - name: Docerita WWW
+    url: https://www.docerita.com
+  - name: Docerita HTTP
+    url: http://docerita.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
