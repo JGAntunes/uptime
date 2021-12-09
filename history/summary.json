@@ -70,5 +70,41 @@
     "timeMonth": 406,
     "timeYear": 671,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Docerita Store",
+    "url": "https://store.docerita.com/v1/status",
+    "icon": "https://favicons.githubusercontent.com/store.docerita.com",
+    "slug": "docerita-store",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 355,
+    "timeDay": 355,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Docerita Store Staging",
+    "url": "https://store-stg.docerita.com/v1/status",
+    "icon": "https://favicons.githubusercontent.com/store-stg.docerita.com",
+    "slug": "docerita-store-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 392,
+    "timeDay": 392,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
+    "dailyMinutesDown": {}
   }
 ]
