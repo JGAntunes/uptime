@@ -12,6 +12,10 @@ sites:
     url: https://www.docerita.com
   - name: Docerita HTTP
     url: http://docerita.com
+  - name: Docerita Store
+    url: https://store.docerita.com/v1/status
+  - name: Docerita Store Staging
+    url: https://store-stg.docerita.com/v1/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
