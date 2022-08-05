@@ -94,17 +94,17 @@
     "url": "https://store-stg.docerita.com/v1/status",
     "icon": "https://favicons.githubusercontent.com/store-stg.docerita.com",
     "slug": "docerita-store-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 2378,
-    "timeWeek": 1405,
-    "timeMonth": 1197,
-    "timeYear": 1043,
+    "time": 1046,
+    "timeDay": 2169,
+    "timeWeek": 1443,
+    "timeMonth": 1213,
+    "timeYear": 1046,
     "dailyMinutesDown": {}
   }
 ]
