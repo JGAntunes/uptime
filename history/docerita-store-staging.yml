@@ -1,7 +1,7 @@
 url: https://store-stg.docerita.com/v1/status
-status: down
-code: 500
-responseTime: 3155
-lastUpdated: 2022-12-15T19:28:33.739Z
+status: up
+code: 200
+responseTime: 1027
+lastUpdated: 2022-12-15T19:38:08.202Z
 startTime: Thu Dec 09 2021 03:23:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
